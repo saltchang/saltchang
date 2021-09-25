@@ -1,16 +1,25 @@
-### Hi there 👋
+# :salt: I'm Salt
 
-<!--
-**saltchang/saltchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineer, a retail investor, a creator, and a ruthless coding Robot.
 
-Here are some ideas to get you started:
+## :bulb: About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Web developer
+- :heart: Love JavaScript, Go, Python, and Unix/Linux
+- :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
+- :gear: Work at [Micron](https://www.micron.com)
+
+## :wrench: I am doing
+
+![Salt's Github Stats](https://github-readme-stats.vercel.app/api?username=saltchang&show_icons=true&theme=github_dark&count_private=true&line_height=30&hide_title=true)
+
+![Salt's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saltchang&hide=html,scss,css&layout=compact&theme=github_dark&hide_title=true)
+
+## :headphones: I am listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&redirect=true)
+
+## :bow_and_arrow: Contact Me
+
+- [Email](mailto:me@saltchang.com)
+- [Twitter](https://twitter.com/saltchang)
