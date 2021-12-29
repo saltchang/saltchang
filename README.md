@@ -1,11 +1,11 @@
 # :salt: I'm Salt
 
-A software engineer, a retail investor, a creator, and a ruthless coding Robot.
+A web developer, a creator, a retail investor, and a dreamer.
 
 ## :bulb: About Me
 
 - :computer: Web developer
-- :heart: Love JavaScript, Go, Python, and Unix/Linux
+- :heart: Love JavaScript/TypeScript, Python, Go, and Unix/Linux
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
 - :gear: Work at [Micron](https://www.micron.com)
 
@@ -23,3 +23,4 @@ A software engineer, a retail investor, a creator, and a ruthless coding Robot.
 
 - [Email](mailto:me@saltchang.com)
 - [Twitter](https://twitter.com/saltchang)
+- [Blog](https://blog.saltchang.com)
