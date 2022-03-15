@@ -7,7 +7,6 @@ A web developer, a creator, a retail investor, and a dreamer.
 - :computer: Web developer
 - :heart: Love JavaScript/TypeScript, Python, Go, and Unix/Linux
 - :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
-- :gear: Work at [Micron](https://www.micron.com)
 
 ## :wrench: I am doing
 
