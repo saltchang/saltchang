@@ -6,7 +6,7 @@ A web developer, a creator, a retail investor, and a dreamer.
 
 - :computer: Web developer
 - :heart: Love JavaScript/TypeScript, Python, Go, and Unix/Linux
-- :house_with_garden: Live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan)
+- :house_with_garden: Live in Taiwan
 
 ## :wrench: I am doing
 
@@ -20,6 +20,6 @@ A web developer, a creator, a retail investor, and a dreamer.
 
 ## :bow_and_arrow: Contact Me
 
-- [Email](mailto:me@saltchang.com)
-- [Twitter](https://twitter.com/saltchang)
+- [Me](https://saltchang.com)
 - [Blog](https://blog.saltchang.com)
+- [Email](mailto:saltchang@outlook.com)
