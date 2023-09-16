@@ -5,7 +5,8 @@ A web developer, a creator, a retail investor, and a dreamer.
 ## :bulb: About Me
 
 - :computer: Web developer
-- :heart: Love JavaScript/TypeScript, Python, Go, and Unix/Linux
+- :heart: Love TypeScript & React
+- :book: Learning Rust
 - :house_with_garden: Live in Taiwan
 - 🏢 Work at [IXT](https://theixt.com)
 
