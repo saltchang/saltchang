@@ -18,7 +18,7 @@ A web developer, a creator, a retail investor, and a dreamer.
 
 ## :headphones: I am listening
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&redirect=true)
 
 ## :bow_and_arrow: Contact Me
 
