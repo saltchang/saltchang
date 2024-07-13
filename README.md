@@ -5,10 +5,9 @@ A web developer, a creator, a retail investor, and a dreamer.
 ## :bulb: About Me
 
 - :computer: Web developer
-- :heart: Love TypeScript & React
-- :book: Learning Rust
+- :heart: Love TypeScript & React & Rust
 - :house_with_garden: Live in Taiwan
-- 🏢 Work at [IXT](https://theixt.com)
+- 🏢 Work at [OneDegree Global](https://linktr.ee/onedegreeglobal)
 
 ## :wrench: I am doing
 
