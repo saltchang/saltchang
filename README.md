@@ -16,10 +16,6 @@ A web developer, a creator, a retail investor, and a dreamer.
 
 ![Salt's most used languages](https://stats.saltchang.com/api/top-langs/?username=saltchang&hide=html,scss,sass,css&layout=compact&theme=github_dark&hide_title=true&card_width=445&langs_count=6)
 
-## :headphones: I am listening
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=0wx6ttdb53ktogtjtn8visfy2&redirect=true)
-
 ## :bow_and_arrow: Contact Me
 
 - [Me](https://saltchang.com)
