@@ -11,9 +11,9 @@ A web developer, a creator, a retail investor, and a dreamer.
 
 ## :wrench: I am doing
 
-![Salt's Github Stats](https://stats.saltchang.com/api?username=saltchang&show_icons=true&theme=github_dark&count_private=true&line_height=30&hide_title=true&include_all_commits=true&ring_color=ff7743)
+![Github Stats](https://stats.saltchang.com/api?username=saltchang&show_icons=true&theme=github_dark&count_private=true&line_height=30&hide_title=true&include_all_commits=true&ring_color=ff7743)
 
-![Salt's most used languages](https://stats.saltchang.com/api/top-langs/?username=saltchang&hide=html,scss,sass,css&layout=compact&theme=github_dark&hide_title=true&card_width=445&langs_count=6)
+![Most Used Languages](https://stats.saltchang.com/api/top-langs/?username=saltchang&hide=html,scss,sass,css&layout=compact&theme=github_dark&hide_title=true&card_width=445&langs_count=6)
 
 ## :bow_and_arrow: Contact Me
 
