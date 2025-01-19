@@ -1,13 +1,13 @@
 # :salt: I'm Salt
 
-A web developer, a creator, a retail investor, and a dreamer.
+A software engineer, a creator, a retail investor, and a dreamer.
 
 ## :bulb: About Me
 
-- :computer: Web developer
-- :heart: Love TypeScript & React & Rust
-- :house_with_garden: Live in Taiwan
-- 🏢 Work at [OneDegree Global](https://linktr.ee/onedegreeglobal)
+- :computer: Software Engineer
+- :heart: TypeScript & React & Rust & Python
+- :house_with_garden: Taiwan
+- :office: [AIFT.io](https://www.linkedin.com/company/aiftgroup)
 
 ## :wrench: I am doing
 
